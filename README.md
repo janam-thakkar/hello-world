@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just another repository but a special repository.
+Use with care
